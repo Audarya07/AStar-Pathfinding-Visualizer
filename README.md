@@ -1,6 +1,6 @@
 ## A * Path Finding Visualizer
 
-	![Path Visualizer](.path.gif)  
+![Path Visualizer](.path.gif)  
 
 This code is writen in Python and GUI is made using **PyGame**.
 
